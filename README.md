@@ -1,1 +1,3 @@
-# cmpinf_python_vc
+Group Members:
+
+Ari Seymour, Morgan Wessner
